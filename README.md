@@ -11,9 +11,7 @@ git config -l
 git config user.name "user github"
 git config user.email "mail stuent github"
 ## Modify
-git checkout student
-git add .
-git commit -m "ghi chú"
-git push -u origin student
-
-test
+- git checkout student
+- git add .
+- git commit -m "ghi chú"
+- git push -u origin student
