@@ -4,15 +4,15 @@
 ## Install Git
 Download và Install Git: https://git-scm.com/downloads
 ## Clone Repository
-Clone HTTT2211: git clone https://github.com/dzokha1010/HTTT2211.git
-cd HTTT2211
+$ git clone https://github.com/dzokha1010/HTTT2211.git
+$ cd HTTT2211
 ## Config
-git config -l
-git config user.name "user github"
-git config user.email "mail stuent github"
+$ git config -l
+$ git config user.name "user github"
+$ git config user.email "mail stuent github"
 ## Modify
-git add .
-git commit -m "ghi chú"
-git branch -M student
-git push -u origin student
+$ git add .
+$ git commit -m "ghi chú"
+$ git checkout student
+$ git push -u origin student
 
