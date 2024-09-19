@@ -15,3 +15,5 @@ Download và Install Git: https://git-scm.com/downloads
 - git add .
 - git commit -m "ghi chú"
 - git push -u origin student
+## Documents
+https://github.com/dzokha1010/HTTT2211/tree/main/Documents
