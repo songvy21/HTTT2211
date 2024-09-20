@@ -20,6 +20,6 @@ Download và Install Git: https://git-scm.com/downloads
 - git commit -m "ghi chú"
 - git push -u origin student
 ## Penetration Testing
-- bWAPP: 
+- bWAPP: https://github.com/dzokha1010/HTTT2211/blob/main/bWAPPv2.2.zip
 ## Documents
 https://github.com/dzokha1010/HTTT2211/tree/main/Documents
