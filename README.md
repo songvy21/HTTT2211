@@ -12,13 +12,15 @@ Download và Install Git: https://git-scm.com/downloads
 - cd HTTT2211
 ## Config
 - git config -l
-- git config user.name "user github"
-- git config user.email "mail stuent github"
+- git config user.name <user_github>
+- git config user.email <mail_user_github>
+## Branch
+- git branch -M <name_branch>
+- git checkout <name_branch>
 ## Modify
-- git checkout student
 - git add .
-- git commit -m "ghi chú"
-- git push -u origin student
+- git commit -m "<note>"
+- git push -u origin <name_branch>
 ## Penetration Testing
 - bWAPP: https://github.com/dzokha1010/HTTT2211/blob/main/bWAPPv2.2.zip
 - Extract the 'zip' file
