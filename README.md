@@ -1,11 +1,8 @@
 # MSSV vắng thực hành: 
-- 6,9,10,32,33,34,35,36,37,38,39,41,45,46,47,48,50,51,55,56,58,64
+- 6,9,10,33,34,35,36,37,39,41,45,46,47,48,50,51,55,56,64
 - 1700348
 - 2000968
 - 2001150
-## Đính chính 
-- hu tho 32;
-- 58; 38
 
 # InfoSec
 ## Install Git
@@ -29,4 +26,4 @@ Download và Install Git: https://git-scm.com/downloads
 - Browse to the file 'install.php' in the directory 'bWAPP': http://localhost/bWAPP/install.php
 - Login with the default credentials, or make a new user: bee/bug
 ## Documents
-- https://github.com/dzokha1010/bWAPP
+- https://github.com/dzokha1010/PentestbWAPP
