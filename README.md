@@ -29,4 +29,4 @@ Download và Install Git: https://git-scm.com/downloads
 - Browse to the file 'install.php' in the directory 'bWAPP': http://localhost/bWAPP/install.php
 - Login with the default credentials, or make a new user: bee/bug
 ## Documents
-https://github.com/dzokha1010/HTTT2211/tree/main/Documents
+- https://github.com/dzokha1010/bWAPP
