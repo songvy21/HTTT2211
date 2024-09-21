@@ -4,6 +4,9 @@
 - 2000968
 - 2001150
 
+- hu tho 32;
+- 58; 38
+
 # InfoSec
 ## Install Git
 Download và Install Git: https://git-scm.com/downloads
