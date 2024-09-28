@@ -21,7 +21,7 @@ Download và Install Git: https://git-scm.com/downloads
 - git checkout <name_branch>
 ## Modify
 - git add .
-- git commit -m "<note>"
+- git commit -m "<ghi chú>"
 - git push -u origin <name_branch>
 ## Penetration Testing
 - bWAPP: https://github.com/dzokha1010/Documents/blob/main/bWAPPv2.2.zip
