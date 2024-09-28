@@ -10,6 +10,8 @@ Download và Install Git: https://git-scm.com/downloads
 ## Clone Repository
 - git clone https://github.com/dzokha1010/HTTT2211.git
 - cd HTTT2211
+##
+- git remote add origin https://github.com/dzokha1010/HTTT2211.git
 ## Config
 - git config -l
 - git config user.name <user_github>
@@ -19,7 +21,7 @@ Download và Install Git: https://git-scm.com/downloads
 - git checkout <name_branch>
 ## Modify
 - git add .
-- git commit -m "<note>"
+- git commit -m "<ghi chú>"
 - git push -u origin <name_branch>
 ## Penetration Testing
 - bWAPP: https://github.com/dzokha1010/Documents/blob/main/bWAPPv2.2.zip
