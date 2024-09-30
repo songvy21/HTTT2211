@@ -24,6 +24,8 @@ Download và Install Git: https://git-scm.com/downloads
 - git add .
 - git commit -m "<ghi chú>"
 - git push -u origin <name_branch>
+## Error 400
+- git config http.postBuffer 52428800
 ## Penetration Testing
 - bWAPP: https://github.com/dzokha1010/Documents/blob/main/bWAPPv2.2.zip
 - Extract the 'zip' file
