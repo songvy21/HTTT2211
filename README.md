@@ -10,8 +10,9 @@ Download và Install Git: https://git-scm.com/downloads
 ## Clone Repository
 - git clone https://github.com/dzokha1010/HTTT2211.git
 - cd HTTT2211
-##
+## Managing remote repositories
 - git remote add origin https://github.com/dzokha1010/HTTT2211.git
+- git remote -v
 ## Config
 - git config -l
 - git config user.name <user_github>
