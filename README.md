@@ -1,4 +1,6 @@
 # InfoSec Laboratory
+## Guide
+- Hướng dẫn sử dụng Github: https://github.com/dzokha1010/Documents/blob/main/Github.md
 ## Lab1 - Penetration Testing bWAPP
 - Hướng dẫn thực hành: [Link](https://github.com/dzokha1010/Documents/blob/main/Confidence_Security_of_IS/Lab1_Penetration_Testing_bWAPP.md)
 - Lab1 thực hành 02 buổi 10 tiết
