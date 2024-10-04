@@ -8,4 +8,4 @@
 - Sinh viên vắng thực hành buổi 2: những sinh viên ko có cập nhật dữ liệu lên repo HTTT2211 khoản tời gian (21/9 và 28/9) sẻ thống kê cuối 5 buổi thực tập
 ## Lab2 - Vulnerability Assessment
 - Hướng dẫn thực hành: [link](https://github.com/dzokha1010/Documents/blob/main/Confidence_Security_of_IS/Lab2_Vulnerability_Assessment.md)
-- Sinh viên vắng thực hành buổi 3: những sinh viên ko có cập nhật dữ liệu lên repo HTTT2211 khoản tời gian (5/10 và 12/10) sẻ thống kê cuối 5 buổi thực tập
+- Sinh viên vắng thực hành buổi 3: 
