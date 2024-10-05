@@ -1,4 +1,6 @@
 # InfoSec Laboratory
+## VMWare
+https://drive.google.com/drive/folders/1HwRyWUXxXsHuIdlcLrc-T-rnPi-dY0I5?usp=drive_link
 ## Github
 - Hướng dẫn sử dụng Github: https://github.com/dzokha1010/Documents/blob/main/Github.md
 ## Lab1 - Penetration Testing bWAPP
